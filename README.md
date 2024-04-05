@@ -3,13 +3,9 @@
 <h3 align="center">Long Term Intern at Bosch</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=zeynepyorulmaz&label=Profile%20views&color=0e75b6&style=flat" alt="zeynepyorulmaz" /> </p>
 <br>
-<a href="www.linkedin.com/in/zeynepyorulmaz" target="_blank">LinkedIn</a>
 
-
-
-
-
-- 📫 How to reach me
+📫 How to reach me
+- <a href="www.linkedin.com/in/zeynepyorulmaz" target="_blank">LinkedIn</a>
 - **zyorulmaz22@ku.edu.tr**
 - **yoz1ib@bosch.com**
 
