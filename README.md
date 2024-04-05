@@ -6,9 +6,11 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeynepyorulmaz&label=Profile%20views&color=0e75b6&style=flat" alt="zeynepyorulmaz" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=zeynepyorulmaz&label=Profile%20views&color=0e75b6&style=flat" alt="zeynepyorulmaz" /> </p>
 
-- 📫 How to reach me **zyorulmaz22@ku.edu.tr** **yoz1ib@bosch.com**
+- 📫 How to reach me
+- **zyorulmaz22@ku.edu.tr**
+- **yoz1ib@bosch.com**
 
 
 
