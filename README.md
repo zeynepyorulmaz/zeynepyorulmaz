@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <em>Passionate about leveraging Artificial Intelligence to build innovative solutions. Currently exploring [mention a specific area like NLP, Computer Vision, ML Ops, etc.] and expanding my software engineering skills.</em>
+  <em>Passionate about leveraging Artificial Intelligence to build innovative solutions.</em>
 </p>
 
 ---
