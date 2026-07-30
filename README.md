@@ -13,13 +13,6 @@
 
 ---
 
-<br>
-<p align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zeynepyorulmaz&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages"/>
- </p>
-
----
-
 ## 📫 Connect with Me
 
 <p align="center">
